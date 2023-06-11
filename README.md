@@ -5,8 +5,8 @@ SEP is a project for an imaginary startup called Sparkify. This project creates 
 the SEP project includes seven files but three files are required to run the script
 * sql_queries.py - Necessary - contains all sql queries.
 * create_tables.py - Necessary - drops and creates tables.
-![Database Diagram](diagram.png)
 * etl.py - Necessary - reads and processes all files and loads them into tables.
+![Database Diagram](diagram.png)
 * etl.ipynb - reads and processes a single file and loads the data into tables.
 * test.ipynb - displays the first few rows of each table.
 * see_DataSet.ipynb
